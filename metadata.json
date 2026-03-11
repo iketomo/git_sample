@@ -1,0 +1,7 @@
+{
+  "name": "Remix: デイ送迎ルート最適化くん",
+  "description": "デイサービスの利用者リストから、車椅子対応を考慮した最も効率的な送迎順を提案します。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
